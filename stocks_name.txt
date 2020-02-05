@@ -1,0 +1,100 @@
+3i	III	Financial Services
+Admiral Group	ADM	Nonlife Insurance
+Anglo American plc	AAL	Mining
+Antofagasta	ANTO	Mining
+Ashtead Group	AHT	Support Services
+Associated British Foods	ABF	Food Producers
+AstraZeneca	AZN	Pharmaceuticals & Biotechnology
+Auto Trader Group	AUTO	Media
+Aveva	AVV	Software & Computer Services
+Aviva	AV.	Life Insurance
+BAE Systems	BA.	Aerospace & Defence
+Barclays	BARC	Banks
+Barratt Developments	BDEV	Household Goods & Home Construction
+Berkeley Group Holdings	BKG	Household Goods & Home Construction
+BHP	BHP	Mining
+BP	BP.	Oil & Gas Producers
+British American Tobacco	BATS	Tobacco
+British Land	BLND	Real Estate Investment Trusts
+BT Group	BT.A	Fixed Line Telecommunications
+Bunzl	BNZL	Support Services
+Burberry	BRBY	Personal Goods
+Carnival Corporation & plc	CCL	Travel & Leisure
+Centrica	CNA	Gas, Water & Multi-utilities
+Coca-Cola HBC	CCH	Beverages
+Compass Group	CPG	Support Services
+CRH plc	CRH	Construction & Materials
+Croda International	CRDA	Chemicals
+DCC plc	DCC	Support Services
+Diageo	DGE	Beverages
+EasyJet	EZJ	Travel & Leisure
+Evraz	EVR	Industrial Metals & Mining
+Experian	EXPN	Support Services
+Ferguson plc	FERG	Support Services
+Flutter Entertainment	FLTR	Travel & Leisure
+GlaxoSmithKline	GSK	Pharmaceuticals & Biotechnology
+Glencore	GLEN	Mining
+Halma	HLMA	Electronic & Electrical Equipment
+Hargreaves Lansdown	HL.	Financial Services
+HSBC	HSBA	Banks
+Hikma Pharmaceuticals	HIK	Pharmaceuticals & Biotechnology
+Imperial Brands	IMB	Tobacco
+Informa	INF	Media
+InterContinental Hotels Group	IHG	Travel & Leisure
+International Airlines Group	IAG	Travel & Leisure
+Intertek	ITRK	Support Services
+ITV plc	ITV	Media
+JD Sports	JD.	General Retailers
+Johnson Matthey	JMAT	Chemicals
+Just Eat	JE.	Consumer Services
+Kingfisher plc	KGF	General Retailers
+Land Securities	LAND	Real Estate Investment Trusts
+Legal & General	LGEN	Life Insurance
+Lloyds Banking Group	LLOY	Banks
+London Stock Exchange Group	LSE	Financial Services
+M&G	MNG	Asset Managers
+Meggitt	MGGT	Aerospace & Defence
+Melrose Industries	MRO	Automobiles & Parts
+Mondi	MNDI	Forestry & Paper
+Morrisons	MRW	Food & Drug Retailers
+National Grid plc	NG.	Gas, Water & Multi-utilities
+Next plc	NXT	General Retailers
+NMC Health	NMC	Health Care Equipment & Services
+Ocado	OCDO	Food & Drug Retailers
+Pearson plc	PSON	Media
+Persimmon plc	PSN	Household Goods & Home Construction
+Phoenix Group	PHNX	Life Insurance
+Polymetal International	POLY	Precious Metals and Mining
+Prudential plc	PRU	Life Insurance
+Reckitt Benckiser	RB.	Household Goods & Home Construction
+RELX	REL	Media
+Rentokil Initial	RTO	Support Services
+Rio Tinto Group	RIO	Mining
+Rightmove	RMV	Media
+Rolls-Royce Holdings	RR.	Aerospace & Defence
+Royal Bank of Scotland Group	RBS	Banks
+Royal Dutch Shell	RDSA	Oil & Gas Producers
+RSA Insurance Group	RSA	Nonlife Insurance
+Sage Group	SGE	Software & Computer Services
+Sainsbury's	SBRY	Food & Drug Retailers
+Schroders	SDR	Financial Services
+Scottish Mortgage Investment Trust	SMT	Equity Investment Instruments
+Segro	SGRO	Real Estate Investment Trusts
+Severn Trent	SVT	Gas, Water & Multi-utilities
+Smith & Nephew	SN.	Health Care Equipment & Services
+DS Smith	SMDS	General Industrials
+Smiths Group	SMIN	General Industrials
+Smurfit Kappa	SKG	General Industrials
+Spirax-Sarco Engineering	SPX	Industrial Engineering
+SSE plc	SSE	Electricity
+Standard Chartered	STAN	Banks
+Standard Life Aberdeen	SLA	Financial Services
+St. James's Place plc	STJ	Life Insurance
+Taylor Wimpey	TW.	Household Goods & Home Construction
+Tesco	TSCO	Food & Drug Retailers
+TUI Group	TUI	Travel & Leisure
+Unilever	ULVR	Personal Goods
+United Utilities	UU.	Gas, Water & Multi-utilities
+Vodafone Group	VOD	Mobile Telecommunications
+Whitbread	WTB	Retail hospitality
+WPP plc	WPP	Media
